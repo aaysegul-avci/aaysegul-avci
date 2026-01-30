@@ -1,5 +1,5 @@
 👋 Hi, I’m Ayşegül Avcı  
-Software Engineering Student at Kırklareli University
+Software Engineering Student at Kırklareli University.
 
 ---
 
