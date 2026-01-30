@@ -1,9 +1,8 @@
 👋 Hi, I’m Ayşegül Avcı  
 Software Engineering Student at Kırklareli University
 
-I am a third-year undergraduate Software Engineering student. 
-I am interested in software development and web technologies, and I have experience working on academic and individual projects. 
-I am continuously improving my skills and learning new technologies.
+💻 Software development & web technologies.
+📚 Learning and building through academic and personal projects. 
 
 🎓 Education  
 B.Sc. in Software Engineering | Kırklareli University (3rd Year)
