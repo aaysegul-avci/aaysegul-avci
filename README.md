@@ -2,6 +2,7 @@
 Software Engineering Student at Kırklareli University
 
 💻 Software development & web technologies.
+
 📚 Learning and building through academic and personal projects. 
 
 🎓 Education  
