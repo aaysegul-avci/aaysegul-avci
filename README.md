@@ -23,7 +23,6 @@ B.Sc. in Software Engineering | Kırklareli University (3rd Year)
 
 🛠 Technical Skills  
 Languages: Python, Java, C#
-
 Web: HTML, CSS, JavaScript  
 Databases: SQL  
 Tools: Git, GitHub, VS Code  
